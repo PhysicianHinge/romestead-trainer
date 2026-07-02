@@ -1,0 +1,13 @@
+{
+  "name": "romestead-trainer",
+  "version": "1.0.0",
+  "description": "A simple fitness tracker and trainer assistant",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
